@@ -1,0 +1,1 @@
+A React Native application for performing common vector calculations. This tool helps students, teachers, and professionals quickly compute vector operations—such as addition, subtraction, dot product, and cross product—right on their mobile device.
